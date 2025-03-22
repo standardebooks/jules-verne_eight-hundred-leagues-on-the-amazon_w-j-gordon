@@ -76,6 +76,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">W. J. Gordon</dc:contributor>
 		<meta property="file-as" refines="#translator">Gordon, W. J.</meta>
+		<meta property="se:name.person.full-name" refines="#author">William John Gordon</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n91012133</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">George Catlin</dc:contributor>
 		<meta property="file-as" refines="#artist">Catlin, George</meta>
