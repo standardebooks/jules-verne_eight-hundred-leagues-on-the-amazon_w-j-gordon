@@ -3,19 +3,19 @@
 	<file path="chapter-2-6.xhtml">
 		<ignore>
 			<code>y-022</code>
-			<reason>Typography matches scan</reason>
-		</ignore>
-	</file>
-	<file path="chapter-2-12.xhtml">
-		<ignore>
-			<code>t-019</code>
-			<reason>Typography matches scan</reason>
+			<reason>Typography matches scans.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-13.xhtml">
 		<ignore>
 			<code>t-029</code>
-			<reason>Part of cryptographic code</reason>
+			<reason>Part of cryptographic code.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-19.xhtml">
+		<ignore>
+			<code>s-079</code>
+			<reason>Empty cells stand for spaces in cryptographic code.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
