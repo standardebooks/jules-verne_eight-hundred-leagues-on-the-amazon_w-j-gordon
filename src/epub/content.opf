@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/eight-hundred-leagues-on-the-amazon/w-j-gordon</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-03-26T04:08:07Z</dc:date>
+		<meta property="dcterms:modified">2025-03-26T04:08:07Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,15 +56,15 @@
 		<meta property="group-position" refines="#collection-1">21</meta>
 		<dc:description id="description">An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;An ex-slave trader named Torres comes across a secret encrypted note and schemes to figure out what it means. Joam Garral, who runs a farm in Peru near the source of the Amazon river and is an outlaw from Brazil, accedes to his daughter’s wishes to get married to her love at the mouth of the Amazon. They decide to travel down the Amazon with the entire family and servants in a giant raft, encountering many adventures on the way.&lt;/p&gt;
-			&lt;p&gt;21st in the &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;Voyages Extraordinaires&lt;/a&gt; series, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne/eight-hundred-leagues-on-the-amazon/w-j-gordon"&gt;Eight Hundred Leagues Down the Amazon&lt;/a&gt;&lt;/i&gt; combines thrilling adventure, humor, and an intriguing mystery with an almost encyclopedic depiction of the flora and fauna of the mid-19th century river.&lt;/p&gt;
+			&lt;p&gt;An ex-slave trader named Torres comes across a secret encrypted note and schemes to figure out what it means. Meanwhile, Joam Garral, who runs a farm in Peru near the source of the Amazon river and is an outlaw from Brazil, accedes to his daughter’s wishes to get married to her love at the mouth of the Amazon. They decide to travel down the Amazon with the entire family and servants in a giant raft, encountering many adventures on the way.&lt;/p&gt;
+			&lt;p&gt;21st in the &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;Voyages Extraordinaires&lt;/a&gt; series, &lt;i&gt;Eight Hundred Leagues Down the Amazon&lt;/i&gt; combines thrilling adventure, humor, and an intriguing mystery with an almost encyclopedic depiction of the mid-19th century flora and fauna of the majestic river.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3091</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100105290</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/005974457</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">95588</meta>
+		<meta property="se:reading-ease.flesch">67.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Eight_Hundred_Leagues_on_the_Amazon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_eight-hundred-leagues-on-the-amazon_w-j-gordon</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
@@ -98,6 +98,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
