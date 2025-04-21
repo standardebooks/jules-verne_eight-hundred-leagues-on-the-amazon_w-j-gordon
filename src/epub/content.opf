@@ -62,7 +62,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3091</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100105290</dc:source>
-		<meta property="se:word-count">95588</meta>
+		<meta property="se:word-count">95591</meta>
 		<meta property="se:reading-ease.flesch">67.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Eight_Hundred_Leagues_on_the_Amazon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_the-giant-raft_w-j-gordon</meta>
