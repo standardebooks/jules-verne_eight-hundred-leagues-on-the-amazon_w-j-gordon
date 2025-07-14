@@ -12,6 +12,12 @@
 			<reason>Typography matches scans.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-2-12.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is a cipher.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-2-13.xhtml">
 		<ignore>
 			<code>t-029</code>
